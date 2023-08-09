@@ -1,3 +1,5 @@
+import "./Header.scss"
+
 function Header() {
   return (
     <div className="Header">
@@ -9,4 +11,4 @@ function Header() {
   )
 }
 
-export default Header
+export default Header;

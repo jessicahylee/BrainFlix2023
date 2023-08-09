@@ -1,13 +1,10 @@
-import Header from './Header/Header'
-import Button from './Button/Button'
-import Bar from './Searchbar/Bar'
+import Navigation from './Navigation'
 
 function App() {
+  
   return (
     <>
-      <Header />
-      <Bar />
-      <Button />
+    <Navigation/>
     </>
   )
 }

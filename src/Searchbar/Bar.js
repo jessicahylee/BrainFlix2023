@@ -4,13 +4,12 @@ function Bar() {
     <div>
       <div>
         <label for="search"> Search </label>
-        <input type="search" id="search">
-          {' '}
-        </input>
+        <input type="search" id="search"/>
+         
       </div>
       <bar />
     </div>
   )
 }
 
-export default Bar()
+export default Bar;
